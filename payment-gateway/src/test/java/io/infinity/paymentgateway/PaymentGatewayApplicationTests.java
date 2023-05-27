@@ -1,10 +1,10 @@
-package io.infinity.apigateway;
+package io.infinity.paymentgateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiGatewayApplicationTests {
+class PaymentGatewayApplicationTests {
 
 	@Test
 	void contextLoads() {
